@@ -6,6 +6,7 @@ I'm currently pursuing a B.Tech in Artificial Intelligence and Machine Learning 
 
 - **Education**: B.Tech in AI and ML, Hindusthan College of Engineering and Technology, Coimbatore, Tamil Nadu, India
 - **Email**: [s.kishorebabu8@gmail.com](mailto:s.kishorebabu8@gmail.com)
+- **LinkedIN**:[Kishore Babu S](www.linkedin.com/in/kishorebabu-s-3a0186263)
 - **Location**: Coimbatore, Tamil Nadu, India
 
 ## 🔧 Skills and Technologies
@@ -38,12 +39,6 @@ Here are a few projects I’ve worked on recently:
 ## 📫 Get in Touch
 
 I'm always open to discussing new projects, collaborations, or opportunities. Feel free to reach out to me at [s.kishorebabu8@gmail.com](mailto:s.kishorebabu8@gmail.com).
-
-## 📈 GitHub Stats
-
-![Kishore's GitHub stats](https://github-readme-stats.vercel.app/api?username=S-KishoreBabu&show_icons=true&theme=radical)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/S-KishoreBabu)
-
 ---
 
 Feel free to reach out and connect!
