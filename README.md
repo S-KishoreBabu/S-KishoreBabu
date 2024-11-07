@@ -6,7 +6,7 @@ I'm currently pursuing a B.Tech in Artificial Intelligence and Machine Learning 
 
 - **Education**: B.Tech in AI and ML, Hindusthan College of Engineering and Technology, Coimbatore, Tamil Nadu, India
 - **Email**: [s.kishorebabu8@gmail.com](mailto:s.kishorebabu8@gmail.com)
-- **LinkedIN**:[Kishore Babu S](www.linkedin.com/in/kishorebabu-s-3a0186263)
+- **LinkedIN**:[Kishore Babu S](https://www.linkedin.com/in/kishorebabu-s-3a0186263/)
 - **Location**: Coimbatore, Tamil Nadu, India
 
 ## 🔧 Skills and Technologies
