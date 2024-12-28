@@ -35,6 +35,7 @@ Here are a few projects I’ve worked on recently:
 
 - **Leaf Disease Detection**: An application for detecting leaf diseases by analyzing uploaded images
 - **Smart Dustbin**: IoT-based project with an ultrasonic sensor and GSM module for notifications
+- **ShushBot**: An IoT project that monitors room noise levels and plays an audible warning ("Don't Shout") when the sound exceeds a predefined threshold.
 
 ## 📫 Get in Touch
 
