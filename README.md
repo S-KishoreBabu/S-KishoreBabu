@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Kishore Babu
+# Hi there! 👋 I'm Kishore Babu S
 
 I'm currently pursuing a B.Tech in Artificial Intelligence and Machine Learning at Hindusthan College of Engineering and Technology, Coimbatore, Tamil Nadu, India. With a passion for learning and creating, I've worked on several small projects across web development, IoT, and machine learning.
 
