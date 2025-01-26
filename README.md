@@ -31,6 +31,12 @@ I'm currently pursuing a B.Tech in Artificial Intelligence and Machine Learning 
 ### IoT Projects
 - Built IoT projects, including smart applications using Arduino and sensors
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=S-KishoreBabu&count_private=true&theme=dark)
+
+## My Top Repositories:
+[![Top Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=S-KishoreBabu&repo=REPO_NAME&theme=dark)](https://github.com/S-KishoreBabu/REPO_NAME)
+
+
 ## 📂 Projects
 
 Here are a few projects I’ve worked on recently:
