@@ -6,10 +6,23 @@ I'm currently pursuing a B.Tech in Artificial Intelligence and Machine Learning 
 ![dev](https://github.com/user-attachments/assets/dd30f6e7-2b5e-425a-abb2-45885e25bfad)
 ## 🎓 About Me
 <a href="https://x.com/s_kishorebabu8" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/kishorebabu-s-3a0186263/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-- **Education**: B.Tech in AI and ML, Hindusthan College of Engineering and Technology, Coimbatore, Tamil Nadu, India
-- **Email**: [s.kishorebabu8@gmail.com](mailto:s.kishorebabu8@gmail.com)
-- **LinkedIN**:[Kishore Babu S](https://www.linkedin.com/in/kishorebabu-s-3a0186263/)
-- **Location**: Coimbatore, Tamil Nadu, India
+Education: B.Tech in AI and ML, Hindusthan College of Engineering and Technology, Coimbatore, Tamil Nadu, India
+
+<img src="https://github.com/user-attachments/assets/c3ed2f4b-60a9-43b1-ae97-730520671710" alt="Gmail" width="30" height="20"> Email: s.kishorebabu8@gmail.com
+
+<img src="https://github.com/user-attachments/assets/6215abdf-ba0f-4d00-aa88-15cfffefd220" alt="LinkedIN" width="30" height="20"> LinkedIN: [Kishore Babu S](www.linkedin.com/in/kishorebabu-s-3a0186263)
+
+
+<img src="https://github.com/user-attachments/assets/bbf44610-ed27-4d7a-801f-e004efb8f9fc" alt="leetcode" width="30" height="20"> LeetCode: [Kishore Babu S](https://leetcode.com/u/Ukq3azNqMM/)
+
+
+<img src="https://github.com/user-attachments/assets/7777d993-91c3-42f6-be80-8fc73381d330" alt="Location" width="30" height="20"> Location: Coimbatore, Tamil Nadu, India
+
+
+
+
+
+
 
 ## 🔧 Skills and Technologies
 
