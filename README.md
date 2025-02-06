@@ -32,7 +32,7 @@ Education: B.Tech in AI and ML, Hindusthan College of Engineering and Technology
 - **C**: Solid understanding and experience with data structures and algorithms
 - **C++**
 - **Java**
-- **Python**: Proficient in machine learning and data processing
+- **Python**
   
 ### Web Development
 - **HTML**, **CSS**, **JavaScript**: Developed small webpages for practice and learning purposes
